@@ -140,25 +140,27 @@ SecureVision AI is designed to be:
    
        python -m venv venv
    
-       cd venv\Scripts\activate
+       cd venv\Scripts\
 
-4. Install Dependencies
+       ./Activate
+
+5. Install Dependencies
 
        python -m pip install pandas scikit-learn flask requests
 
-5. Start SOC Aggregator
+6. Start SOC Aggregator
 
        cd aggregator
 
        python app.py
 
-6. Run Endpoint Agent
+7. Run Endpoint Agent
 
        cd endpoint
 
        python agent.py
 
-7. Open Dashboard
+8. Open Dashboard
    
    http://127.0.0.1.5000
 
