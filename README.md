@@ -96,6 +96,15 @@ This ensures:
 - Fully responsive (mobile, tablet, desktop)
 <hr>
 
+<h2>📸 Screenshots</h2>
+
+<h3>SOC Dashboard — Dark Mode</h3>
+
+<h3>Endpoint Alert with Hostname</h3>
+
+<h3>Responsive Mobile View</h3>
+
+<hr>
 <h2>🔐 AMD Technology Alignment</h2>
 
 SecureVision AI is designed to be:
