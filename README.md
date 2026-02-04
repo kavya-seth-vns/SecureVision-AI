@@ -96,13 +96,27 @@ This ensures:
 - Fully responsive (mobile, tablet, desktop)
 <hr>
 
-<h2>📸 Screenshots</h2>
+## 📸 Screenshots
 
-<h3>SOC Dashboard — Dark Mode</h3>
+### 🖥️ SOC Dashboard — Dark Mode
+<p align="center">
+  <img src="screenshots/dashboard-dark.png" alt="SOC Dashboard Dark Mode" width="850"/>
+</p>
 
-<h3>Endpoint Alert with Hostname</h3>
+---
 
-<h3>Responsive Mobile View</h3>
+### 🚨 Endpoint Alert with Hostname
+<p align="center">
+  <img src="screenshots/endpoint-alert.png" alt="Endpoint Alert with Hostname" width="850"/>
+</p>
+
+---
+
+### 📱 Responsive Mobile View
+<p align="center">
+  <img src="screenshots/mobile-view.png" alt="Responsive Mobile View" width="400"/>
+</p>
+
 
 <hr>
 <h2>🔐 AMD Technology Alignment</h2>
