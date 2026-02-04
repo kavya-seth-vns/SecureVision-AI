@@ -1,0 +1,5 @@
+cpu_usage,mem_usage,net_packets
+20,35,120
+25,40,130
+90,95,800
+22,38,125
